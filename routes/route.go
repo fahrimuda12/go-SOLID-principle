@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"go-simple-MVC/config"
+	"go-SOLID-principle/config"
 
 	"github.com/gin-gonic/gin"
 )

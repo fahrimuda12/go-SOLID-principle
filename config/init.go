@@ -1,7 +1,7 @@
 package config
 
 import (
-	"go-simple-MVC/app/controllers"
+	"go-SOLID-principle/app/controllers"
 )
 
 type Initialization struct {

@@ -1,11 +1,11 @@
 package services
 
 import (
-	"go-simple-MVC/app/models"
+	"go-SOLID-principle/app/models"
 	"net/http"
 	"strconv"
 
-	"go-simple-MVC/app/helpers"
+	"go-SOLID-principle/app/helpers"
 
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"

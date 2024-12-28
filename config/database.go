@@ -1,7 +1,7 @@
 package config
 
 import (
-	"go-simple-MVC/app/models"
+	"go-SOLID-principle/app/models"
 	"os"
 
 	"github.com/joho/godotenv"

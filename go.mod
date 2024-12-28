@@ -1,4 +1,4 @@
-module go-simple-MVC
+module go-SOLID-principle
 
 go 1.23.4
 

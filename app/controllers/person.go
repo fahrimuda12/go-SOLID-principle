@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"go-simple-MVC/app/models"
+	"go-SOLID-principle/app/models"
 	"net/http"
 
 	"github.com/gin-gonic/gin"

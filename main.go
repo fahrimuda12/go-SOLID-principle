@@ -1,8 +1,8 @@
 package main
 
 import (
-	"go-simple-MVC/config"
-	"go-simple-MVC/routes"
+	"go-SOLID-principle/config"
+	"go-SOLID-principle/routes"
 )
 
 func main() {
